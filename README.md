@@ -24,4 +24,18 @@ This has a big impact on the player's gaming experience.
 
 ## Scope of effect
 
-Anything displayed in chat box, Moogle Mails and contents displayed in the Party Finder. Client-side only. No effect on other players. (Same as intl. version of FFXIV client)
+Anything displayed in Chat Box, Moogle Mails and recruit criterias in the Party Finder. 
+
+Client-side only. No effect on other players.
+
+## Ban Disclaimer
+
+If you use this library, you are using it at your own risk.
+
+- Can I get banned for using this?
+
+Potentially yes. It is a third-party tool.
+
+- What is the likely-hood of this happening?
+
+Low. No user has reported that they have been banned so far.
